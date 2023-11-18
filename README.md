@@ -8,7 +8,7 @@ This is my first project using HTML, CSS, and JavaScript.
 
 ## Preview
 
-[View The Drum Kit](#)(https://mohammedfaiyaz29.github.io/The-Drum-Kit/)
+[View The Drum Kit](#) (https://mohammedfaiyaz29.github.io/The-Drum-Kit/)
 
 ## Technologies Used
 
